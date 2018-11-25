@@ -1,3 +1,4 @@
+# from https://blender.stackexchange.com/a/117188
 import bpy
 context = bpy.context
 
