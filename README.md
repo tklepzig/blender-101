@@ -7,3 +7,5 @@
   - From the ShiftS menu, choose 'Cursor to Selected'
   - In Object Mode, ShiftCtrlAltC, 'Set Origin to Cursor'
   - Still in Object Mode, in the properties region of the 3D View (toggled by N,) in the 'Transform' panel, set Location Z to 0
+- [Create a cone](https://blender.stackexchange.com/questions/3603/how-can-i-transform-one-end-of-a-cylindrical-extrusion-to-create-a-cone-or-needl)
+- [Cut a shape out](https://blender.stackexchange.com/questions/7928/how-would-you-cut-a-shape-out-of-an-object-using-another-object)
