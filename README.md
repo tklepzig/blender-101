@@ -10,3 +10,4 @@
 - [Create a cone](https://blender.stackexchange.com/questions/3603/how-can-i-transform-one-end-of-a-cylindrical-extrusion-to-create-a-cone-or-needl)
 - [Cut a shape out](https://blender.stackexchange.com/questions/7928/how-would-you-cut-a-shape-out-of-an-object-using-another-object)
 - [Cutting a mesh in half](https://blender.stackexchange.com/questions/5320/cutting-a-mesh-in-half)
+- [Isolate or hide specific parts of an object in edit mode](https://blender.stackexchange.com/questions/6890/isolate-or-hide-specific-parts-of-an-object-in-edit-mode)
