@@ -13,3 +13,4 @@
 - [Isolate or hide specific parts of an object in edit mode](https://blender.stackexchange.com/questions/6890/isolate-or-hide-specific-parts-of-an-object-in-edit-mode)
 - [Splitting pieces of a mesh into a new object](https://blender.stackexchange.com/questions/6184/splitting-pieces-of-a-mesh-into-a-new-object)
 - [Knife and Bisect Tools (Blender 2.8)](https://www.youtube.com/watch?v=cpb8-YqaBTM)
+- Zoom Rectangle: <kbd>Shift</kbd> + <kbd>B</kbd>
