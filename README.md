@@ -11,3 +11,5 @@
 - [Cut a shape out](https://blender.stackexchange.com/questions/7928/how-would-you-cut-a-shape-out-of-an-object-using-another-object)
 - [Cutting a mesh in half](https://blender.stackexchange.com/questions/5320/cutting-a-mesh-in-half)
 - [Isolate or hide specific parts of an object in edit mode](https://blender.stackexchange.com/questions/6890/isolate-or-hide-specific-parts-of-an-object-in-edit-mode)
+- [Splitting pieces of a mesh into a new object](https://blender.stackexchange.com/questions/6184/splitting-pieces-of-a-mesh-into-a-new-object)
+- [Knife and Bisect Tools (Blender 2.8)](https://www.youtube.com/watch?v=cpb8-YqaBTM)
