@@ -14,3 +14,8 @@
 - [Splitting pieces of a mesh into a new object](https://blender.stackexchange.com/questions/6184/splitting-pieces-of-a-mesh-into-a-new-object)
 - [Knife and Bisect Tools (Blender 2.8)](https://www.youtube.com/watch?v=cpb8-YqaBTM)
 - Zoom Rectangle: <kbd>Shift</kbd> + <kbd>B</kbd>
+- Splitting mesh at edges
+    - Select the edges where you want to have it cut (Your edges should have a closed loop)
+    - Go to Mesh > Edges (<kbd>Ctrl</kbd> + <kbd>E</kbd>) > Edge Split
+    - Change to face selection mode and select on of the faces on a side and type <kbd>Ctrl</kbd> + <kbd>L</kbd> to select linked faces
+    - Then type <kbd>P</kbd> and confirm Separate Selection
