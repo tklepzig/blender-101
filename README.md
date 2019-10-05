@@ -19,3 +19,9 @@
     - Go to Mesh > Edges (<kbd>Ctrl</kbd> + <kbd>E</kbd>) > Edge Split
     - Change to face selection mode and select on of the faces on a side and type <kbd>Ctrl</kbd> + <kbd>L</kbd> to select linked faces
     - Then type <kbd>P</kbd> and confirm Separate Selection
+- [How to merge two unconnected edges into a single one](https://blender.stackexchange.com/questions/44953/how-to-merge-two-unconnected-edges-into-a-single-one)
+- Move vertex of one object to the same position of a vertex of another object
+  - Set origin of object A to vertex a
+  - Set cursor to vertex b of object B (Select vertex b and the choose "Cursor to Selection")
+  - Select object A
+  - <kbd>Shift</kbd> + <kbd>S</kbd> "Selection to Cursor"
